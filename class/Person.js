@@ -42,3 +42,5 @@ class Person2 {
 const me2 = new Person2('Lee');
 me2.sayHi();
 Person2.sayHellow();
+
+//.,

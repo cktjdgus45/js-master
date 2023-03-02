@@ -21,4 +21,10 @@ Number.parseInt
 Number.parseFloat
 Number.name
 Number.caller
+Number.prototype.toExponential
+Number.prototype.toFixed
+Number.prototype.toLocaleString
+Number.prototype.toString
+Number.prototype.valueOf
+Number.prototype.toPrecision
 
